@@ -2,7 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Functionlity
+Loaded data JSON dynamically using lazy loading
+Created fallback component for poster image
+Added Infinite scroll
+Used Material UI for styling
+Used redux for state managemen
+
+
+## Known Issues
+UI done for mobile screen only
+Search functionlity not done as UI was missing
+
+
 
 In the project directory, you can run:
 

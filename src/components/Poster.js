@@ -3,10 +3,6 @@ import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import Paper from '@mui/material/Paper';
 
-
-// const getImage = () => {
-//   switch()
-// }
 const Item = styled(Paper)(({ theme }) => ({
     // backgroundColor: theme.palette.backgroundSecondary,
     ...theme.typography.body2,
